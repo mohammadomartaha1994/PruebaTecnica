@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PruebaTécnica</string>
+    <string name="fcm_ref">com.me.pruebatcnica.fcm_pref</string>
+    <string name="fcm_token">com.me.pruebatcnica.fcm_token</string>
+</resources>

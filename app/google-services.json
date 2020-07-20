@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1092172718123",
+    "firebase_url": "https://pruebatcnica.firebaseio.com",
+    "project_id": "pruebatcnica",
+    "storage_bucket": "pruebatcnica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092172718123:android:20e3e4bc72f64e9de1ca6e",
+        "android_client_info": {
+          "package_name": "com.me.pruebatcnica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092172718123-lare9p5u7jmqbo2l24cditncairoiln3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlDmRAqy4NsWA4T7Q2mxLF_818tFE4hVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092172718123-lare9p5u7jmqbo2l24cditncairoiln3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
